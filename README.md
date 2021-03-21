@@ -2,7 +2,6 @@
   <p align="center">
     <img windth="470" src="https://bluecanvas.io/images/salesforce-dev-orgs.png">
 </p>
-  https://github.com/salesforce
   
   
   
@@ -121,8 +120,10 @@
   ![The Output tab showing results with exit code 0 as successful.](https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-vscode-salesforce/use-vscode-for-salesforce/images/pt-BR/3025e4bef52d29ac9439afb6360f6516_cjptzm-67-i-000-m-0-s-896-w-8-q-2-ecx.png)
 
 
-   # Salesforce Developer#
+   # Salesforce Developer:
    
 <p align="center">
     <img windth="470" src="https://github.com/Rubensrma/Quickstart-VisualStudioCodeforSalesforceDevelopment/blob/master/img-process/Visual%20Studio%20Code%20for%20Salesforce%20development11.jpeg">
 </p>
+
+#Salesforce #Apex #JSON 
