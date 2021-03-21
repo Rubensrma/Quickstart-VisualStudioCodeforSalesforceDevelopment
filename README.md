@@ -1,16 +1,8 @@
   
   <p align="center">
-    <img windth="470" src="https://www.qtrainers.com/upload/topic/700/2019/06/topic-700-37375d0ca3bfed76a.jpg">
+    <img windth="470" src="https://bluecanvas.io/images/salesforce-dev-orgs.png">
 </p>
-  
-  @salesforce
-  
-  
-  
-  
-  
-  
-  
+  https://github.com/salesforce
   
   
   
